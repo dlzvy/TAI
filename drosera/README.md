@@ -2,8 +2,8 @@
 ## Installation
 ◾ Clone the Repository
 ```
-git clone https://github.com/adekgemes/drosera.git
-cd Drosera-Network && chmod +x drosera.sh && ./drosera.sh
+git clone https://github.com/dlzvy/TAI.git
+cd drosera && chmod +x drosera.sh && ./drosera.sh
 ```
 ## Provide Information:
 *The script will prompt you to enter the following details accurately:
