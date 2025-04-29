@@ -4,7 +4,6 @@
 # Drosera Trap + Operator FULL AUTO Installation Script (no manual sourcing needed)
 # ========================
 
-Display custom logo at the beginning
 curl -s https://raw.githubusercontent.com/dlzvy/LOGOTES/main/logo1.sh | bash
 sleep 5
 
